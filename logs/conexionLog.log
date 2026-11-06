@@ -1,0 +1,141 @@
+2026-09-10T23:36:21.190Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'birthdate
+            ) VALUES (1,1,'JOSUE','rodrigo','fierro morfin','josue@...' at line 9
+2026-09-10T23:37:58.557Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'birthdate
+            ) VALUES (1,1,'JOSUE','rodrigo','fierro morfin','josue@...' at line 9
+2026-09-10T23:38:42.898Z [error]: Column count doesn't match value count at row 1
+2026-09-11T15:54:39.095Z [error]: Unknown column 'status' in 'where clause'
+2026-09-11T15:54:39.122Z [error]: Unknown column 'status' in 'where clause'
+2026-09-11T15:55:07.633Z [error]: Unknown column 'status' in 'where clause'
+2026-09-11T15:55:07.656Z [error]: Unknown column 'status' in 'where clause'
+2026-09-11T15:56:15.891Z [error]: Column 'id_status' in where clause is ambiguous
+2026-09-11T15:56:15.904Z [error]: Column 'id_status' in where clause is ambiguous
+2026-09-11T15:58:52.199Z [error]: Column 'id_status' in where clause is ambiguous
+2026-09-11T15:58:52.222Z [error]: Column 'id_status' in where clause is ambiguous
+2026-09-12T06:25:44.050Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''4'' at line 14
+2026-09-12T21:14:10.192Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'e' at line 1
+2026-09-12T21:15:13.816Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'e' at line 1
+2026-09-12T21:15:52.457Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'e' at line 1
+2026-09-12T21:39:09.289Z [error]: id_user is not defined
+2026-09-12T21:39:09.302Z [error]: id_user is not defined
+2026-09-12T21:39:09.317Z [error]: id_user is not defined
+2026-09-12T21:39:09.320Z [error]: id_user is not defined
+2026-09-12T21:39:09.325Z [error]: id_user is not defined
+2026-09-12T21:39:09.329Z [error]: id_user is not defined
+2026-09-12T21:39:09.335Z [error]: id_user is not defined
+2026-09-12T21:39:09.341Z [error]: id_user is not defined
+2026-09-12T21:39:09.345Z [error]: id_user is not defined
+2026-09-12T21:39:09.350Z [error]: id_user is not defined
+2026-09-12T21:39:09.354Z [error]: id_user is not defined
+2026-09-14T20:51:54.504Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T20:51:58.893Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T20:53:54.600Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T20:53:57.513Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T20:54:18.638Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T20:54:41.726Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T20:55:08.689Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T20:57:13.465Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T21:01:08.637Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T21:02:21.350Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T21:02:36.062Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-14T21:02:39.002Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_membership  = 2' at line 4
+2026-09-16T06:34:13.148Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-16T06:34:22.420Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-16T06:34:25.639Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-16T06:36:11.004Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T03:29:29.880Z [error]: Column count doesn't match value count at row 1
+2026-09-17T23:09:16.368Z [error]: Column 'id_user' cannot be null
+2026-09-17T23:09:57.506Z [error]: Column 'id_user' cannot be null
+2026-09-17T23:10:10.984Z [error]: Column 'id_user' cannot be null
+2026-09-17T23:11:31.385Z [error]: Column 'id_user' cannot be null
+2026-09-17T23:13:01.442Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T23:13:08.879Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T23:13:21.809Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T23:14:55.294Z [error]: Column 'id_user' cannot be null
+2026-09-17T23:15:10.421Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T23:15:40.055Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T23:16:52.990Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T23:18:18.179Z [error]: SUCCESS_MESSAGE_INSERT is not defined
+2026-09-17T23:30:30.615Z [error]: connection is not defined
+2026-09-17T23:30:38.894Z [error]: connection is not defined
+2026-09-17T23:32:23.934Z [error]: connection is not defined
+2026-09-17T23:34:38.479Z [error]: connection is not defined
+2026-09-17T23:38:02.220Z [error]: Column 'id_user' cannot be null
+2026-09-25T07:14:00.263Z [error]: Column 'id_user' cannot be null
+2026-10-02T09:14:55.105Z [error]: Column 'id_user' cannot be null
+2026-10-02T09:18:03.531Z [error]: Column 'id_user' cannot be null
+2026-10-02T09:52:31.747Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INNER JOIN users ON users.id_user = attendance.id_user
+                INNER ...' at line 3
+2026-10-02T09:52:34.543Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INNER JOIN users ON users.id_user = attendance.id_user
+                INNER ...' at line 3
+2026-10-02T09:58:01.609Z [error]: Column 'id_user' cannot be null
+2026-10-14T19:12:51.980Z [error]: AggregateError
+2026-10-14T19:12:52.041Z [error]: AggregateError
+2026-10-14T19:12:57.934Z [error]: AggregateError
+2026-10-14T19:12:57.975Z [error]: AggregateError
+2026-10-14T19:12:59.819Z [error]: AggregateError
+2026-10-14T19:12:59.845Z [error]: AggregateError
+2026-10-14T19:13:06.757Z [error]: AggregateError
+2026-10-14T19:13:06.787Z [error]: AggregateError
+2026-10-14T19:13:09.379Z [error]: AggregateError
+2026-10-14T19:13:09.390Z [error]: AggregateError
+2026-10-15T03:53:08.780Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:53:08.793Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:58:43.012Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:58:43.038Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:58:48.808Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:58:48.854Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:58:53.971Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:58:53.981Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:59:03.552Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:59:03.571Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:59:23.065Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-15T03:59:23.136Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE membership.id_status= 1' at line 13
+2026-10-18T04:06:19.821Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE admind.id_status= 1' at line 12
+2026-10-18T04:18:33.326Z [error]: Cannot destructure property 'name' of 'req.body' as it is undefined.
+2026-10-18T04:18:33.334Z [error]: Cannot destructure property 'name' of 'req.body' as it is undefined.
+2026-10-21T05:16:53.760Z [error]: password is not defined
+2026-10-21T05:16:57.115Z [error]: password is not defined
+2026-10-21T05:16:57.718Z [error]: password is not defined
+2026-10-21T05:16:57.976Z [error]: password is not defined
+2026-10-21T05:16:58.213Z [error]: password is not defined
+2026-10-21T05:17:08.733Z [error]: password is not defined
+2026-10-21T05:19:23.972Z [error]: STATUS_ACTIVE is not defined
+2026-10-24T22:55:35.299Z [error]: Unknown column 'id' in 'where clause'
+2026-10-24T22:55:58.187Z [error]: Unknown column 'id' in 'where clause'
+2026-10-24T22:56:06.924Z [error]: Unknown column 'id' in 'where clause'
+2026-10-24T23:00:02.899Z [error]: Unknown column 'id' in 'where clause'
+2026-10-24T23:01:33.576Z [error]: Unknown column 'id' in 'where clause'
+2026-10-24T23:02:33.275Z [error]: userIds is not defined
+2026-10-26T17:09:20.250Z [error]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 14
+2026-10-26T18:19:08.955Z [error]: Illegal arguments: number, string
+2026-10-26T18:20:15.751Z [error]: Illegal arguments: number, string
+2026-10-26T18:21:17.383Z [error]: Illegal arguments: number, string
+2026-10-26T18:21:45.873Z [error]: Illegal arguments: number, string
+2026-10-26T18:22:47.934Z [error]: Illegal arguments: number, string
+2026-10-26T18:29:19.100Z [error]: row is not defined
+2026-10-26T18:30:53.047Z [error]: row is not defined
+2026-10-26T18:31:02.706Z [error]: row is not defined
+2026-10-26T18:31:53.472Z [error]: secretOrPrivateKey is not valid key material
+2026-10-26T18:32:01.746Z [error]: secretOrPrivateKey is not valid key material
+2026-10-26T18:33:42.778Z [error]: secretOrPrivateKey is not valid key material
+2026-10-26T18:33:44.075Z [error]: secretOrPrivateKey is not valid key material
+2026-10-27T19:52:12.863Z [error]: Illegal arguments: string, object
+2026-10-27T19:52:45.513Z [error]: Illegal arguments: string, object
+2026-10-27T19:53:21.624Z [error]: Illegal arguments: string, object
+2026-10-27T19:54:05.018Z [error]: Illegal arguments: string, object
+2026-10-27T19:54:50.645Z [error]: Illegal arguments: string, object
+2026-10-27T19:55:45.428Z [error]: Illegal arguments: string, object
+2026-10-27T19:56:47.310Z [error]: Cannot read properties of undefined (reading 'password')
+2026-10-27T19:57:33.600Z [error]: Cannot read properties of undefined (reading 'password')
+2026-10-27T19:58:29.376Z [error]: Cannot access 'isPasswordValid' before initialization
+2026-10-27T19:58:33.497Z [error]: Cannot access 'isPasswordValid' before initialization
+2026-10-27T19:58:52.791Z [error]: Cannot access 'isPasswordValid' before initialization
+2026-10-27T20:04:04.452Z [error]: Illegal arguments: string, object
+2026-10-27T20:05:08.446Z [error]: Illegal arguments: string, object
+2026-10-27T20:06:03.307Z [error]: Illegal arguments: string, object
+2026-10-31T23:36:18.898Z [error]: email is not defined
+2026-10-31T23:36:39.759Z [error]: email is not defined
+2026-11-02T21:57:52.397Z [error]: Illegal arguments: string, object
+2026-11-02T21:57:54.412Z [error]: Illegal arguments: string, object
+2026-11-04T00:21:31.315Z [error]: Illegal arguments: string, object
+2026-11-04T00:21:33.817Z [error]: Illegal arguments: string, object
